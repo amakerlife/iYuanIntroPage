@@ -42,8 +42,7 @@ import { RouterLink, RouterView } from 'vue-router';
 
   <footer class="snap-start snap-always">
     <div class="font-light text-zinc-500 p-4 mt-8 mb-[10rem]">
-      <p>2023 © iYuan</p>
-      <a href="https://beian.miit.gov.cn" class="hover:underline">沪ICP备2022026478号-3</a>
+      <p>2023 © Makerlife</p>
     </div>
   </footer>
 </template>
